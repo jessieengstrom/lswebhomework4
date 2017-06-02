@@ -1,0 +1,13 @@
+<!doctype HTML>
+<html>
+<body>
+<h1 id="header"> About me </h1>
+<ul>
+<li>Nickname: <span id="nickname"></span></li>
+<li>Favorites: <span id="favorites"></span</li>
+<li>Hometown: <span id="hometown"></li>
+</ul>
+
+<script src="script.js"></script>
+</body>
+</html>
